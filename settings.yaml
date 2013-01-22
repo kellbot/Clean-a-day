@@ -1,0 +1,50 @@
+colors:
+  - main: '#71cbd2'
+    primary: '#F2DC6D'
+    secondary: '#fac2ae'
+    text: '#666666'
+daily tasks:
+  - Empty Dish Rack
+  - Wipe Kitchen Counters
+  - Make Bed
+  - Check Trash
+  - Water Plants
+  - Clear Dining Room Table
+  - 5 Minute Pickup
+weekly tasks:
+  - Wipe Bathroom Counters
+  - Clean Toilets
+  - Vacuum Upstairs
+  - Vacuum Downstairs
+  - Put Away Clothes
+  - Dusting
+weekly todo:
+  - Tuesday: Pick up CSA share
+  - Wednesday: Put trash out
+monthly tasks:
+  - Mop Bathrooms
+  - Clean Showers
+  - Scrub Kitchen
+  - Vacuum Car
+special events:
+  2-5: MM Farrell's Birthday
+  2-21: Mom's Birthday
+  3-5: Jen's Birthday
+  3-17: Dad's Birthday
+  4-2: Our Anniversary
+  4-8: Easter
+  5-13: Mother's Day
+  5-14: Leona's Birthday
+  5-28: Memorial Day
+  6-4: Independence Day
+  6-17: Father's Day
+  9-3: Labor Day
+  10-31: Halloween
+  11-22: Thanksgiving
+  12-24: Chris's Birthday
+  12-25: Christmas
+dimensions:
+  page width: 5.25
+  width: 1575
+  height: 1275
+  
